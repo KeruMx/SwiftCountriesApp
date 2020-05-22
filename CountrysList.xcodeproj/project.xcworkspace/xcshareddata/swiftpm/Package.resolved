@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage",
+        "state": {
+          "branch": null,
+          "revision": "5818cf70fde7e9e07e24196d0d54350bc8526f26",
+          "version": "5.8.0"
+        }
+      },
+      {
+        "package": "SDWebImageSVGCoder",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImageSVGCoder.git",
+        "state": {
+          "branch": null,
+          "revision": "9de72b862ca813464c9b2780146f29dc72aebc8e",
+          "version": "1.5.0"
+        }
+      },
+      {
+        "package": "SDWebImageSwiftUI",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImageSwiftUI",
+        "state": {
+          "branch": null,
+          "revision": "1ed96d9b08fa18694621e0b1de182fbf032121bc",
+          "version": "1.4.0"
+        }
+      },
+      {
+        "package": "SwURL",
+        "repositoryURL": "https://github.com/cmtrounce/SwURL",
+        "state": {
+          "branch": null,
+          "revision": "f9ae7d6e3ff18ea80689da1de4b66461ed8dbc41",
+          "version": "0.2.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
